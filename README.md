@@ -1,5 +1,5 @@
 <h2 align="center">
-  <a href="https://www.fontspace.com/category/guardians-of-the-galaxy"><img src="https://see.fontimg.com/api/rf5/Z8zJ/MDk0N2U3YmQxY2NhNDA0N2E3NTU1OTEwZTM0NDJkMTEub3Rm/Uy4wLjAuTg/starlord.png?r=fs&h=68&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=68" alt="Guardians Of The Galaxy fonts"></a>
+  <a href="https://www.fontspace.com/category/cool"><img src="https://see.fontimg.com/api/rf5/zrlmw/NTVkOGEzMWNhYjU5NDQwNzlhMTUwZWNhMDUyZWQzYjAudHRm/Uy4wLjAuTg/qager.png?r=fs&h=68&w=1000&fg=FFFFFF&bg=FFFFFF&tb=1&s=68" alt="Cool fonts"></a>
 </h2>
 
 ###
